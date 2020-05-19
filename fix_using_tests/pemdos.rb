@@ -11,7 +11,7 @@ def snake_it_up(string)
       num_s+=1
       
     end
-    binding.pry
+    # binding.pry
     res + string
     
   else
