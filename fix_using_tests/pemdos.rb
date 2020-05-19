@@ -6,7 +6,7 @@ def snake_it_up(string)
     num_s = 0
     res = ""
     
-    while num_s <= 10 do 
+    while num_s < 10 do 
       res = res + "s" 
       num_s+=1
     end
