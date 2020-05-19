@@ -2,7 +2,7 @@
 require 'pry'
 def snake_it_up(string)
   if string[0] == "s"
-    
+    # binding.pry
     num_s = 0
     res = "s"
     
@@ -19,4 +19,4 @@ def snake_it_up(string)
   end
 end
 
-snake_it_up("surprise")
+# snake_it_up("surprise")
