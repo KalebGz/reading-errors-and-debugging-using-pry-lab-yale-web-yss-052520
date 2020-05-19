@@ -9,9 +9,8 @@ def snake_it_up(string)
     while num_s <= 10 do 
       res = res + "s" 
       num_s+=1
-      
     end
-    # binding.pry
+    binding.pry
     res + string
     
   else
