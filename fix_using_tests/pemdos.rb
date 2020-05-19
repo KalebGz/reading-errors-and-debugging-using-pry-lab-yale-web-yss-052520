@@ -10,7 +10,7 @@ def snake_it_up(string)
       res = res + "s" 
       num_s+=1
     end
-    binding.pry
+    # binding.pry
     res + string
     
   else
@@ -18,4 +18,4 @@ def snake_it_up(string)
   end
 end
 
-snake_it_up("surprise")
+# snake_it_up("surprise")
